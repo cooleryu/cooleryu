@@ -2,9 +2,9 @@
 
 [中文版本](README.zh-CN.md)
 
-I am a backend engineer at a leading internet company and an AI enthusiast building toward full-stack AI Agent engineering.
+I am an AI Agent full-stack engineer at a leading internet company, and a long-term AI practitioner and enthusiastic learner.
 
-My current focus is AI Agent infrastructure: MCP, tool calling, LLM harness engineering, multi-agent systems, observability, evaluation, and reliable long-running agent workflows.
+My work centers on AI Agent infrastructure: MCP, tool calling, LLM harness engineering, multi-agent systems, observability, evaluation, and reliable long-running agent workflows.
 
 I care about turning model capabilities into systems that are reproducible, observable, testable, and maintainable.
 
@@ -27,15 +27,3 @@ I care about turning model capabilities into systems that are reproducible, obse
 ## Stack
 
 Java, Python, TypeScript, Spring Boot, LangChain, LangGraph, OpenTelemetry, MCP, Redis, MySQL, message queues, Docker, Kubernetes.
-
-## How I Work
-
-- Reproduce before proposing fixes.
-- Keep changes small enough for maintainers to review.
-- Add regression tests for real failure modes.
-- Prefer reliable systems over impressive demos.
-- Optimize for clear root cause, clear risk, and clear maintainer value.
-
-## Current Focus
-
-Building a disciplined open-source contribution workflow for AI Agent engineering: finding real maintainer pain, validating issues locally, writing focused tests, and shipping small PRs that are easy to review.

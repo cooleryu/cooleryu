@@ -2,9 +2,9 @@
 
 [English](README.md)
 
-我目前是一名就职于头部互联网公司的后端工程师，也是一名 AI 的长期实践者和热情学习者，正在系统性地转向 AI Agent 全栈工程方向。
+我目前是一名就职于头部互联网公司的 AI Agent 全栈工程师，也是一名 AI 的长期实践者和热情学习者。
 
-我当前关注 AI Agent 基础设施：MCP、工具调用、LLM harness engineering、多智能体系统、可观测性、评测，以及可靠的长任务 Agent workflow。
+我的工作聚焦于 AI Agent 基础设施：MCP、工具调用、LLM harness engineering、多智能体系统、可观测性、评测，以及可靠的长任务 Agent workflow。
 
 我更关心如何把模型能力落到可复现、可观测、可测试、可维护的工程系统里。
 
@@ -27,15 +27,3 @@
 ## 技术栈
 
 Java、Python、TypeScript、Spring Boot、LangChain、LangGraph、OpenTelemetry、MCP、Redis、MySQL、消息队列、Docker、Kubernetes。
-
-## 工作方式
-
-- 先复现，再提出修复。
-- 保持 PR 足够小，让维护者容易 review。
-- 为真实失败场景补回归测试。
-- 相比炫技 demo，更重视可靠系统。
-- 优先讲清楚 root cause、风险边界和维护者价值。
-
-## 当前关注
-
-构建一套严谨的 AI Agent 开源贡献流程：寻找真实维护者痛点，本地验证 issue，编写聚焦测试，提交范围小、容易 review、能解释清楚价值的 PR。
