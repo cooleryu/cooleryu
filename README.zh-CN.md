@@ -37,6 +37,8 @@
 
 [项目仓库](https://github.com/cooleryu/ContextAdapt) · [动作检查](https://github.com/cooleryu/ContextAdapt/blob/main/docs/action-guard.md) · [执行器集成](https://github.com/cooleryu/ContextAdapt/blob/main/docs/executor-integrations.md) · [机器可读结果](https://github.com/cooleryu/ContextAdapt/blob/main/artifacts/executor/real-executor-report.json)
 
+编程 Agent 该选多大的上下文窗口？这份实用指南介绍如何比较上下文预算、总成本、延迟和任务验证结果：[中文指南](https://cooleryu.github.io/ContextAdapt/guides/choosing-context-length-for-coding-agents/zh-CN/) · [English guide](https://cooleryu.github.io/ContextAdapt/guides/choosing-context-length-for-coding-agents/)。
+
 > **Alpha 边界：** ContextAdapt 目前检查两类风险：动作依据已经被替代的上下文，以及受保护编辑缺少当前权限。`PASS` 不代表通用意义上的绝对安全。
 
 ## 02 / 精选已合并修复

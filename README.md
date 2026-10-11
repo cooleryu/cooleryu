@@ -37,6 +37,8 @@ An agent can keep a complete old plan after the user has replaced the task. The 
 
 [Repository](https://github.com/cooleryu/ContextAdapt) · [Action guard](https://github.com/cooleryu/ContextAdapt/blob/main/docs/action-guard.md) · [Executor integrations](https://github.com/cooleryu/ContextAdapt/blob/main/docs/executor-integrations.md) · [Machine-readable result](https://github.com/cooleryu/ContextAdapt/blob/main/artifacts/executor/real-executor-report.json)
 
+Choosing a context window for a coding agent? Read the practical guide to compare context budgets, total cost, latency, and task verification: [English guide](https://cooleryu.github.io/ContextAdapt/guides/choosing-context-length-for-coding-agents/) · [中文指南](https://cooleryu.github.io/ContextAdapt/guides/choosing-context-length-for-coding-agents/zh-CN/).
+
 > **Alpha scope:** ContextAdapt currently checks actions built from superseded context and protected edits without current permission. A `PASS` result is not a universal safety guarantee.
 
 ## 02 / Selected merged fixes
