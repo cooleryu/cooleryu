@@ -41,6 +41,8 @@
 
 > **Alpha 边界：** ContextAdapt 目前检查两类风险：动作依据已经被替代的上下文，以及受保护编辑缺少当前权限。`PASS` 不代表通用意义上的绝对安全。
 
+我也做了[「无剧透回放 / Spoiler-Free Replays」](https://github.com/cooleryu/spoiler-free-replays)：一个开源、免费的本地英雄联盟赛事回放工具，视频来源为 B 站。链接指向项目官方仓库，包含源码和安装说明。
+
 ## 02 / 精选已合并修复
 
 | 项目 | 解决的问题 |

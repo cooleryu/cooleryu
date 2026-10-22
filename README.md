@@ -41,6 +41,8 @@ Choosing a context window for a coding agent? Read the practical guide to compar
 
 > **Alpha scope:** ContextAdapt currently checks actions built from superseded context and protected edits without current permission. A `PASS` result is not a universal safety guarantee.
 
+I also built [无剧透回放 / Spoiler-Free Replays](https://github.com/cooleryu/spoiler-free-replays), a free, open-source local viewer for League of Legends replays from Bilibili. The linked repository contains the source code and installation instructions.
+
 ## 02 / Selected merged fixes
 
 | Project | What changed |
